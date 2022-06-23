@@ -28,3 +28,7 @@ This page is a study in technologies such as HTML, CSS and JavaScript.
 ### Third Slide
 
 ![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/third-slide.png)
+
+### Responsive
+
+![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/responsive.png)
