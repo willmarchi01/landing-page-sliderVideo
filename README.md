@@ -13,7 +13,6 @@ This page is a study in technologies such as HTML, CSS and JavaScript.
 
 ![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/page.png)
 
-
 ### Hover
 
 ![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/hover.png)
@@ -21,3 +20,11 @@ This page is a study in technologies such as HTML, CSS and JavaScript.
 ### Background Slide Change
 
 ![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/slide.png)
+
+### Second Slide
+
+![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/second-slide.png)
+
+### Third Slide
+
+![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/third-slide.png)
