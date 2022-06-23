@@ -12,3 +12,8 @@ This page is a study in technologies such as HTML, CSS and JavaScript.
 ### Page
 
 ![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/page.png)
+
+
+### Hover
+
+![image](https://github.com/willmarchi01/landing-page-sliderVideo/blob/main/midia/img/hover.png)
