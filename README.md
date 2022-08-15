@@ -2,6 +2,8 @@
 
 This page is a study in technologies such as HTML, CSS and JavaScript.
 
+Online project: https://62faa88353151f095cdd8914--precious-jalebi-5591d7.netlify.app/
+
 ## Technologies
 ### Frontend ([HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) & [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript))
 
